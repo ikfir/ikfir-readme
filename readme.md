@@ -36,7 +36,8 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/ikfir/ikfir/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ikfir/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
 
