@@ -36,12 +36,7 @@
 
 <br clear="both">
 
-<div id="header" align="center">
-  <img src="https://github.com/ikfir/ikfir/blob/output/github-contribution-grid-snake.gif" width="100"/>
-</div>
-
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <div align="center">
