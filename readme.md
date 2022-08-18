@@ -36,8 +36,9 @@
 
 <br clear="both">
 
-![snake](https://github.com/ikfir/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
+<div id="header" align="center">
+  <img src="https://github.com/ikfir/ikfir/blob/output/github-contribution-grid-snake.gif" width="100"/>
+</div>
 
 
 <div align="center">
